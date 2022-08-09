@@ -1,5 +1,4 @@
 git add .
-git commit -m "first commit"
+git commit -m "Just cmon bruhhh"
 git branch -M main
-#git remote add origin https://github.com/lightningdisc/website-dist.git
-git push -u origin main
+git push origin main
